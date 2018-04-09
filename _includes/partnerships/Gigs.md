@@ -10,6 +10,11 @@
 #### Posted: <date_posted>
 -->
 
+# Yale Digital Humanities Lab
+
+### Yale University
+
+5th year PhD student in the sociology department with a grant from Digital Humanities Lab looking for additional CS students (grad or undergrad does not matter) to hire.
 
 # Yale Journal of Human Rights
 
